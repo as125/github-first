@@ -1,0 +1,8 @@
+@media (max-width: 767px) {
+    .mtc-md-3{
+        margin-top: 1rem!important;
+    }
+} 
+.top-banner img{
+    border-radius: 15px;
+}

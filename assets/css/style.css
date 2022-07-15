@@ -1,11 +1,16 @@
 @import "../css/_font.css";
+@import "../css/_top-nav.css";
+@import "../css/_banner-top.css";
 *,body{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: vazir-medium;
 }
-div.img-logo img{
-    width: 100px;
-    height: 100px;
+div.custom-dropdown-menu a{
+    color: rgb(51, 49, 49)!important;
+}
+.dropdown-toggle::after{
+    vertical-align: -2px;
+    margin-right: 10px!important;
 }

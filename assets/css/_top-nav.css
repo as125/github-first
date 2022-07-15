@@ -1,0 +1,23 @@
+div.img-logo img{
+    width: 100px;
+    height: 65px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+}
+.custom-navbar-nav li a{
+    color: white!important;
+}
+.custom-dropdown{
+    position: unset;
+}
+.custom-dropdown-menu{
+    width: 100%;
+    top: 62px;
+    background-color: #efefef;
+}
+.custom-dropdown-menu .dropdown-item:active {
+    background-color: transparent;
+}
+.custom-dropdown-menu .dropdown-item:hover, .dropdown-item:focus{
+    color: rgb(90, 42, 42)!important;
+}
