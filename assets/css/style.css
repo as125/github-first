@@ -1,6 +1,11 @@
-
+@import "../css/_font.css";
 *,body{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: vazir-medium;
+}
+div.img-logo img{
+    width: 100px;
+    height: 100px;
 }
